@@ -4,8 +4,9 @@ I'm junior developer in Korea Digital Media High School!
 
 My Tech Stack
 
--App : Flutter, React Native
--Frontend : Javascript, React
+- App : Flutter, React Native
+
+- Frontend : Javascript, React
 
 
 
