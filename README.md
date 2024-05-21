@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-I'm web, app developer in Korea Digital Media High School!
+I'm junior developer in Korea Digital Media High School!
+
+My Tech Stack
+
+-App : Flutter, React Native
+-Frontend : Javascript, React
+
+
 
 <!--
 **Vince77361/Vince77361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
