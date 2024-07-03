@@ -6,7 +6,11 @@ My Tech Stack
 
 - App : Flutter, React Native
 
-- Frontend : Javascript, React
+- Frontend : Javascript, Typescript, React
+
+- Backend : NodeJS + Express
+
+- DB : PostgreSQL
 
 
 
