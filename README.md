@@ -8,9 +8,11 @@ My Tech Stack
 
 - Frontend : Javascript, Typescript, React
 
-- Backend : NodeJS + Express
+- Backend : NodeJS + Express, FastAPI
 
-- DB : PostgreSQL
+- DB : PostgreSQL, MongoDB
+
+- HW : Arduino
 
 
 
