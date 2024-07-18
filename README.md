@@ -6,13 +6,12 @@ My Tech Stack
 
 - App : Flutter, React Native
 
-- Frontend : Javascript, Typescript, React
+- Frontend : Javascript, Typescript, React, Next.js
 
-- Backend : NodeJS + Express, FastAPI
+- Backend : Node.js + Express 
 
 - DB : PostgreSQL, MongoDB
 
-- HW : Arduino
 
 
 
