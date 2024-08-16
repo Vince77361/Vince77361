@@ -8,7 +8,7 @@ My Tech Stack
 
 - Frontend : Javascript, Typescript, React, Next.js
 
-- Backend : Node.js + Express 
+- Backend : Node.js + Express , NestJS
 
 - DB : PostgreSQL, MongoDB
 
