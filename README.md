@@ -12,7 +12,7 @@ My Tech Stack
 
 - DB : PostgreSQL, MongoDB
 
-- Etc : Styled-components, TailwindCSS, Supabase
+- Etc : Styled-components, TailwindCSS, Supabase, Zustand
 
 
 
