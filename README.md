@@ -12,6 +12,7 @@ My Tech Stack
 
 - Etc : Styled-components, TailwindCSS, Supabase, Zustand
 
+Currently learning Swift, Golang
 
 
 
