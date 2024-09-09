@@ -1,18 +1,5 @@
 ## Hi there 👋
 
-My Tech Stack
-
-- App : Flutter, React Native
-
-- Frontend : Javascript, Typescript, React, Next.js
-
-- Backend : Node.js + Express , NestJS
-
-- DB : PostgreSQL, MongoDB
-
-- Etc : Styled-components, TailwindCSS, Supabase, Zustand
-
-Currently learning Swift, Golang
 
 
 
