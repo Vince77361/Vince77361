@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### My Tech Stack
+
+- FE: Typescript, React, NextJS
+- BE: Express, NestJS, Supabase(BaaS)
+- DB: PostgreSQL, SQLite
 
 
 
