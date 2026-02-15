@@ -1,12 +1,29 @@
-## Hi there 👋
+# Hi there 👋
 
-### My Tech Stack
+## My Tech Stack
 
-- FE: Typescript, React, NextJS
-- BE: Express, NestJS, Supabase(BaaS)
-- DB: PostgreSQL, SQLite
+- ### FE
+    - Typescript
+    - React
+    - NextJS
+      
+- ### BE
+    - Express
+    - NestJS
+      
+- ### DB
+    - PostgreSQL
+    - SQLite
 
+- ### Mobile
+    - Flutter
+    - React Native (Expo)
 
+- ### Fav Libraries
+    - Clerk (for Auth)
+    - TailwindCSS (for UI Design)
+    - Supabase (for BaaS, fullstack NextJS Proj)
+    - Zustand (for State Management)
 
 <!--
 **Vince77361/Vince77361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
