@@ -24,6 +24,8 @@
     - TailwindCSS (for UI Design)
     - Supabase (for BaaS, fullstack NextJS Proj)
     - Zustand (for State Management)
+    - Tanstack Query (for State Management / Data Fetching)
+    - React hook form, Zod (for Validation)
 
 <!--
 **Vince77361/Vince77361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
