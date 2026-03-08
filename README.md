@@ -26,6 +26,7 @@
     - Zustand (for State Management)
     - Tanstack Query (for State Management / Data Fetching)
     - React hook form, Zod (for Validation)
+    - Prisma (for DB ORM)
  
 - ### I Wanna Learn..
     - Sentry
