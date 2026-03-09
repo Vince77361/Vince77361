@@ -3,13 +3,14 @@
 ## My Tech Stack
 
 - ### FE
-    - Typescript
+    - Javascript(TS)
     - React
     - NextJS
       
 - ### BE
     - Express
     - NestJS
+    - FastAPI
       
 - ### DB
     - PostgreSQL
