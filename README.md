@@ -6,13 +6,6 @@
 
 <br>
 
-## Now
-
-- macOS 메뉴바에서 사는 작은 비둘기 펫 🕊️ 을 Electron으로 만드는 중
-- Claude Code와 함께 작업하는 법을 실험하는 중
-
-<br>
-
 ## Stack
 
 **Language**
