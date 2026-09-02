@@ -38,11 +38,3 @@
 ![React Native](https://img.shields.io/badge/React_Native-2D3142?style=flat-square&logo=react&logoColor=white)
 
 <br>
-
-## Consistency, by the numbers
-
-<div align="center">
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Vince77361&background=00000000&ring=2D3142&fire=2D3142&currStreakNum=2D3142&sideNums=2D3142&currStreakLabel=6C7A89&sideLabels=6C7A89&dates=99A1A8&stroke=2D3142&hide_border=true" />
-
-</div>
