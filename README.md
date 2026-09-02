@@ -2,10 +2,6 @@
 
 # Vince
 
-### `Consistency.`
-
-full-stack developer · 습관처럼 무언가를 계속 만듭니다
-
 </div>
 
 <br>
