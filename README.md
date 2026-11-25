@@ -74,57 +74,6 @@ Idea → validated product
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## ✦ &nbsp;Featured work
-
-<table>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/Vince77361/AIdealize">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vince77361&repo=AIdealize&theme=tokyonight&hide_border=true&border_radius=14" alt="AIdealize"/>
-</a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/Vince77361/Cora-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vince77361&repo=Cora-App&theme=tokyonight&hide_border=true&border_radius=14" alt="Cora-App"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/Vince77361/Portfolio_Page">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vince77361&repo=Portfolio_Page&theme=tokyonight&hide_border=true&border_radius=14" alt="Portfolio_Page"/>
-</a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/Vince77361/LegendHolJak">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vince77361&repo=LegendHolJak&theme=tokyonight&hide_border=true&border_radius=14" alt="LegendHolJak"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/Vince77361/StartHub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vince77361&repo=StartHub&theme=tokyonight&hide_border=true&border_radius=14" alt="StartHub"/>
-</a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/Vince77361/NextJS-Supabase-Boilerplate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vince77361&repo=NextJS-Supabase-Boilerplate&theme=tokyonight&hide_border=true&border_radius=14" alt="NextJS-Supabase-Boilerplate"/>
-</a>
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://portfolio-page-five-rose.vercel.app"><img src="https://img.shields.io/badge/▶_Live_portfolio-0EA5E9?style=flat-square" alt="Live portfolio"/></a>
-<a href="https://legend-hol-jak.vercel.app"><img src="https://img.shields.io/badge/▶_LegendHolJak-7C3AED?style=flat-square" alt="LegendHolJak live"/></a>
-<a href="https://github.com/Vince77361?tab=repositories"><img src="https://img.shields.io/badge/All_repositories_→-334155?style=flat-square" alt="All repositories"/></a>
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
 ## ✦ &nbsp;How I work
 
 ```mermaid
