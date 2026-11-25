@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Vince — Consistency.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#14183a"/>
+      <stop offset="1" stop-color="#1d1147"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#f0abfc"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.40"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <clipPath id="round"><rect width="1200" height="340" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+
+    <!-- drifting glows -->
+    <circle r="260" fill="url(#glowA)">
+      <animate attributeName="cx" values="180;300;180" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="60;120;60" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="240" fill="url(#glowB)">
+      <animate attributeName="cx" values="1030;900;1030" dur="17s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="290;220;290" dur="17s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- rising particles -->
+    <g fill="#ffffff">
+      <circle cx="120" cy="330" r="2" opacity="0.5"><animate attributeName="cy" values="340;-10" dur="9s" repeatCount="indefinite"/></circle>
+      <circle cx="330" cy="330" r="1.6" opacity="0.4"><animate attributeName="cy" values="340;-10" dur="12s" begin="-4s" repeatCount="indefinite"/></circle>
+      <circle cx="560" cy="330" r="2.2" opacity="0.45"><animate attributeName="cy" values="340;-10" dur="10s" begin="-2s" repeatCount="indefinite"/></circle>
+      <circle cx="790" cy="330" r="1.8" opacity="0.4"><animate attributeName="cy" values="340;-10" dur="13s" begin="-7s" repeatCount="indefinite"/></circle>
+      <circle cx="1010" cy="330" r="2" opacity="0.5"><animate attributeName="cy" values="340;-10" dur="11s" begin="-5s" repeatCount="indefinite"/></circle>
+      <circle cx="1120" cy="330" r="1.5" opacity="0.35"><animate attributeName="cy" values="340;-10" dur="15s" begin="-9s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <g transform="translate(150,0)">
+    <!-- code-bracket motif -->
+    <g fill="none" stroke="url(#ink)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.9">
+      <path d="M132 118 L92 170 L132 222"/>
+      <path d="M196 118 L236 170 L196 222"/>
+      <path d="M176 108 L152 232"/>
+    </g>
+
+    <!-- name -->
+    <text x="290" y="182" font-family="'SF Pro Display','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="92" font-weight="800" letter-spacing="-2" fill="url(#ink)">Vince</text>
+
+    <!-- rotating tagline -->
+    <g font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,monospace" font-size="26" fill="#cbd5e1">
+      <text x="292" y="236" opacity="1">Consistency.
+        <animate attributeName="opacity" values="1;1;0;0;0;0;1" keyTimes="0;0.28;0.32;0.6;0.8;0.97;1" dur="12s" repeatCount="indefinite"/>
+      </text>
+      <text x="292" y="236" opacity="0">Full-stack  ·  Web  ·  Mobile  ·  Desktop
+        <animate attributeName="opacity" values="0;0;0;1;1;0;0;0;0" keyTimes="0;0.3;0.34;0.38;0.62;0.66;0.8;0.95;1" dur="12s" repeatCount="indefinite"/>
+      </text>
+      <text x="292" y="236" opacity="0">Ship small. Ship daily. Keep going.
+        <animate attributeName="opacity" values="0;0;0;0;0;1;1;0;0" keyTimes="0;0.3;0.5;0.6;0.64;0.7;0.92;0.97;1" dur="12s" repeatCount="indefinite"/>
+      </text>
+      <rect x="292" y="252" width="56" height="3" rx="1.5" fill="url(#ink)">
+        <animate attributeName="width" values="56;260;56" dur="4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    </g>
+    <!-- bottom edge -->
+    <rect y="334" width="1200" height="6" fill="url(#ink)" opacity="0.85"/>
+  </g>
+</svg>

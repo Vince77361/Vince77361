@@ -1,40 +1,182 @@
 <div align="center">
 
-# Vince
+<img src="assets/hero.svg" alt="Vince — Consistency." width="100%"/>
+
+<br/>
+
+<a href="https://github.com/Vince77361?tab=repositories"><img src="https://img.shields.io/badge/Repos-18_public-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
+<a href="https://portfolio-page-five-rose.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:vince77361@gmail.com"><img src="https://img.shields.io/badge/Mail-Say_hi-F472B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=Vince77361&label=Profile+views&color=6366F1&style=for-the-badge" alt="Profile views"/>
+
+<br/><br/>
+
+**One developer. Web, mobile, desktop. Shipping a little every day.**
 
 </div>
 
-<br>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## Stack
+## ✦ &nbsp;At a glance
 
-**Language**
+<table>
+<tr>
+<td width="25%" valign="top" align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-2D3142?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2D3142?style=flat-square&logo=javascript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-2D3142?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2D3142?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-2D3142?style=flat-square&logo=dart&logoColor=white)
+### 🌐 Web
+Next.js · React<br/>
+NestJS · Express · FastAPI
 
-**Frontend**
+</td>
+<td width="25%" valign="top" align="center">
 
-![React](https://img.shields.io/badge/React-2D3142?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-2D3142?style=flat-square&logo=nextdotjs&logoColor=white)
+### 📱 Mobile
+Flutter · React Native<br/>
+Expo · SwiftUI
 
-**Backend**
+</td>
+<td width="25%" valign="top" align="center">
 
-![Express](https://img.shields.io/badge/Express-2D3142?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-2D3142?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-2D3142?style=flat-square&logo=fastapi&logoColor=white)
+### 🖥️ Desktop
+Electron · SwiftUI (macOS)<br/>
+Go tooling
 
-**Database**
+</td>
+<td width="25%" valign="top" align="center">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2D3142?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-2D3142?style=flat-square&logo=sqlite&logoColor=white)
+### 🧠 AI-assisted
+Built with Claude Code<br/>
+Idea → validated product
 
-**Mobile**
+</td>
+</tr>
+</table>
 
-![Flutter](https://img.shields.io/badge/Flutter-2D3142?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-2D3142?style=flat-square&logo=react&logoColor=white)
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<br>
+## ✦ &nbsp;Tech stack
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,go,py,dart,swift,cs&perline=7" alt="Languages"/>
+
+**Frontend & Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,electron&perline=5" alt="Frontend and mobile"/>
+
+**Backend & Data**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,prisma,postgres,sqlite,supabase&perline=8" alt="Backend and data"/>
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma&perline=4" alt="Tools"/>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## ✦ &nbsp;Featured work
+
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/Vince77361/AIdealize">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vince77361&repo=AIdealize&theme=tokyonight&hide_border=true&border_radius=14" alt="AIdealize"/>
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/Vince77361/Cora-App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vince77361&repo=Cora-App&theme=tokyonight&hide_border=true&border_radius=14" alt="Cora-App"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/Vince77361/Portfolio_Page">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vince77361&repo=Portfolio_Page&theme=tokyonight&hide_border=true&border_radius=14" alt="Portfolio_Page"/>
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/Vince77361/LegendHolJak">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vince77361&repo=LegendHolJak&theme=tokyonight&hide_border=true&border_radius=14" alt="LegendHolJak"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/Vince77361/StartHub">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vince77361&repo=StartHub&theme=tokyonight&hide_border=true&border_radius=14" alt="StartHub"/>
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/Vince77361/NextJS-Supabase-Boilerplate">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vince77361&repo=NextJS-Supabase-Boilerplate&theme=tokyonight&hide_border=true&border_radius=14" alt="NextJS-Supabase-Boilerplate"/>
+</a>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://portfolio-page-five-rose.vercel.app"><img src="https://img.shields.io/badge/▶_Live_portfolio-0EA5E9?style=flat-square" alt="Live portfolio"/></a>
+<a href="https://legend-hol-jak.vercel.app"><img src="https://img.shields.io/badge/▶_LegendHolJak-7C3AED?style=flat-square" alt="LegendHolJak live"/></a>
+<a href="https://github.com/Vince77361?tab=repositories"><img src="https://img.shields.io/badge/All_repositories_→-334155?style=flat-square" alt="All repositories"/></a>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## ✦ &nbsp;How I work
+
+```mermaid
+flowchart LR
+    A([💡 Idea]) --> B[Validate fast]
+    B --> C[Prototype]
+    C --> D[Ship]
+    D --> E{Feedback}
+    E -- iterate --> C
+    E -- done --> F([✅ Next])
+
+    classDef n fill:#1e1b4b,stroke:#a78bfa,color:#e0e7ff,stroke-width:1.5px;
+    class A,B,C,D,E,F n;
+```
+
+> *Consistency beats intensity. A small commit every day compounds.*
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## ✦ &nbsp;GitHub, in numbers
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vince77361&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vince77361&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&langs_count=8" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Vince77361&theme=tokyonight&hide_border=true&border_radius=14" alt="Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vince77361&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity" alt="Contribution graph" width="100%"/>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## ✦ &nbsp;Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vince77361/Vince77361/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vince77361/Vince77361/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Vince77361/Vince77361/output/github-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=110&section=footer" width="100%" alt=""/>
+
+<sub>Consistency. — built with ♥ and a lot of commits</sub>
+
+</div>
