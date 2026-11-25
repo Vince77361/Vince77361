@@ -21,32 +21,25 @@
 
 <table>
 <tr>
-<td width="25%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 ### 🌐 Web
 Next.js · React<br/>
-NestJS · Express · FastAPI
+NestJS · Express · FastAPI · Fiber
 
 </td>
-<td width="25%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 ### 📱 Mobile
 Flutter · React Native<br/>
 Expo · SwiftUI
 
 </td>
-<td width="25%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 ### 🖥️ Desktop
-Electron · SwiftUI (macOS)<br/>
+Tauri · SwiftUI (macOS)<br/>
 Go tooling
-
-</td>
-<td width="25%" valign="top" align="center">
-
-### 🧠 AI-assisted
-Built with Claude Code<br/>
-Idea → validated product
 
 </td>
 </tr>
@@ -59,37 +52,18 @@ Idea → validated product
 <div align="center">
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,go,py,dart,swift,cs&perline=7" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=ts,js,go,py,dart,swift&perline=6" alt="Languages"/>
 
 **Frontend & Mobile**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,electron&perline=5" alt="Frontend and mobile"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,tauri&perline=5" alt="Frontend and mobile"/>
 
 **Backend & Data**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,prisma,postgres,sqlite,supabase&perline=8" alt="Backend and data"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,prisma,postgres,sqlite,supabase&perline=8" alt="Backend and data"/><img src="assets/fiber.svg" width="48" height="48" alt="Fiber"/>
 
 **Tools**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vercel,figma&perline=4" alt="Tools"/>
 
 </div>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## ✦ &nbsp;How I work
-
-```mermaid
-flowchart LR
-    A([💡 Idea]) --> B[Validate fast]
-    B --> C[Prototype]
-    C --> D[Ship]
-    D --> E{Feedback}
-    E -- iterate --> C
-    E -- done --> F([✅ Next])
-
-    classDef n fill:#1e1b4b,stroke:#a78bfa,color:#e0e7ff,stroke-width:1.5px;
-    class A,B,C,D,E,F n;
-```
-
-> *Consistency beats intensity. A small commit every day compounds.*
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
